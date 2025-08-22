@@ -1,10 +1,7 @@
 # AMEZON-SALES-ANALYSTIC-Using-Power-BI
 
 ******************************************************************************************************************************************
-DATA SET
-
-
-
+# 📂DATA SET : 
 [walmart.xlsx](https://github.com/user-attachments/files/21832557/walmart.xlsx)
 
 
@@ -22,7 +19,7 @@ https://github.com/user-attachments/assets/3cbd4101-7a0c-42c0-abaa-0332cd4597a2
 *******************************************************************************************************************************************
 
 # About This Dash Board
---> Dashboard Description
+--> ## Dashboard Description
 
 This dashboard is designed to provide clear and interactive insights from the dataset. It includes key visualizations, filters, and performance indicators that make data analysis simple and effective.
 
